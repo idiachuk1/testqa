@@ -1,0 +1,66 @@
+[33mcommit 12b4d292348c45b71f2d1049519787de1d91e81c[m[33m ([m[1;36mHEAD -> [m[1;32mAlex_branch3[m[33m, [m[1;31morigin/Alex_Branch_2[m[33m, [m[1;32mAlex_Branch_2[m[33m)[m
+Author: Oleksandr-Bond <olexander.bond22@gmail.com>
+Date:   Mon Oct 3 19:31:56 2022 +0200
+
+    First branch variant 1
+
+[33mcommit caeaddbf39477b0d97e8a45a873e8e19d0892da0[m[33m ([m[1;31morigin/Alex_Branch_1[m[33m, [m[1;32mAlex_branch1_v2[m[33m, [m[1;32mAlex_Branch_1[m[33m)[m
+Author: Oleksandr-Bond <olexander.bond22@gmail.com>
+Date:   Mon Oct 3 18:36:13 2022 +0200
+
+    first comment branch
+
+[33mcommit 2a2d39c5a00bf18addf0a1d6cf45074807c8ea6e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Igor Diachuk <i.diachuk@goit.ua>
+Date:   Wed Sep 28 12:38:13 2022 +0300
+
+    add file main
+
+[33mcommit 0537370f02e44af1d2773fb507eb76cdb72047cb[m
+Merge: ff43555 3ecff22
+Author: Igor Diachuk <i.diachuk@goit.ua>
+Date:   Wed Sep 28 12:33:55 2022 +0300
+
+    Merge branch 'main' of https://github.com/idiachuk1/testqa
+
+[33mcommit ff435557d9efd6fbeec17c8a85c25e78bd9182db[m
+Author: Igor Diachuk <i.diachuk@goit.ua>
+Date:   Wed Sep 28 12:26:01 2022 +0300
+
+    First branch
+
+[33mcommit 3ecff229178c1641c0091f1703528140ca2f7e8b[m
+Author: Igor D <101728963+idiachuk1@users.noreply.github.com>
+Date:   Tue Sep 27 22:04:38 2022 +0300
+
+    Delete .DS_Store
+
+[33mcommit 9c7f0190d53bf45ecbca3795b73ccb3a4f349268[m
+Author: Igor D <101728963+idiachuk1@users.noreply.github.com>
+Date:   Tue Sep 27 22:04:23 2022 +0300
+
+    Update .gitignore
+
+[33mcommit ec73efa3d05bca1a8256a5992e6a3241775f6e34[m
+Author: Igor Diachuk <i.diachuk@goit.ua>
+Date:   Tue Sep 27 22:03:37 2022 +0300
+
+    reset
+
+[33mcommit 94f8669ee5569e58ea4874a6daa279605184a235[m
+Author: Igor Diachuk <i.diachuk@goit.ua>
+Date:   Tue Sep 27 21:50:23 2022 +0300
+
+    squashed from third-branch
+
+[33mcommit 509eccdd2b7931651460184f6c1557ab9fb5c49f[m
+Author: Igor Diachuk <i.diachuk@goit.ua>
+Date:   Mon Sep 26 17:39:20 2022 +0300
+
+    First commit
+
+[33mcommit 51d2c9f74f3474884390fa0c6c592bdf10f4c7c4[m
+Author: Igor D <101728963+idiachuk1@users.noreply.github.com>
+Date:   Mon Sep 26 17:36:37 2022 +0300
+
+    Initial commit
