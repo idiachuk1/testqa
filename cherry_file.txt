@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 something for squash
+=======
+something for squash
+something for squash2
+>>>>>>> max1

@@ -1,2 +1,7 @@
 branch1
+<<<<<<< HEAD
 some for squash too
+=======
+some for squash too
+gor squash3
+>>>>>>> max1
